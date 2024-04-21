@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\bin\Debug\net8.0-windows\Log in And Sign Up Form.exe
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\bin\Debug\net8.0-windows\Log in And Sign Up Form.deps.json
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\bin\Debug\net8.0-windows\Log in And Sign Up Form.runtimeconfig.json
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\bin\Debug\net8.0-windows\Log in And Sign Up Form.dll
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\bin\Debug\net8.0-windows\Log in And Sign Up Form.pdb
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log_in_And_Sign_Up_Form.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.dll
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\refint\Log in And Sign Up Form.dll
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.pdb
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log in And Sign Up Form.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\ref\Log in And Sign Up Form.dll
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log_in_And_Sign_Up_Form.LogInForm.resources
+C:\Users\Administrator\source\repos\Log in And Sign Up Form\Log in And Sign Up Form\obj\Debug\net8.0-windows\Log_in_And_Sign_Up_Form.signUpForm.resources

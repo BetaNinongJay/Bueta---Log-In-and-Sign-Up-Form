@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\bin\Debug\net8.0-windows\Tabular Form.exe
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\bin\Debug\net8.0-windows\Tabular Form.deps.json
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\bin\Debug\net8.0-windows\Tabular Form.runtimeconfig.json
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\bin\Debug\net8.0-windows\Tabular Form.dll
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\bin\Debug\net8.0-windows\Tabular Form.pdb
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular_Form.Form1.resources
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.dll
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\refint\Tabular Form.dll
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.pdb
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\Tabular Form.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Tabular Form\Tabular Form\obj\Debug\net8.0-windows\ref\Tabular Form.dll
